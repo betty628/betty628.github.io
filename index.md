@@ -1,12 +1,12 @@
 pwn的学习
+第一周
+001
+https://blog.csdn.net/2401_87716819/article/details/145141756?spm=1001.2014.3001.5501
 
-#001
-(https://blog.csdn.net/2401_87716819/article/details/145141756?spm=1001.2014.3001.5501)
+002
+https://blog.csdn.net/2401_87716819/article/details/145214971?spm=1001.2014.3001.5501
 
-#002
-(https://blog.csdn.net/2401_87716819/article/details/145214971?spm=1001.2014.3001.5501)
-
-#003：kail突然打不开了，今天就写了一道crypto的题
+003：kail突然打不开了，今天就写了一道crypto的题
 -题目：
 
 -[LitCTF 2023]md5的破解
@@ -22,3 +22,38 @@ pwn的学习
 
 结果：LitCTF{md5can123dexrypt213thoughcrpsh}
 
+第二周
+
+004
+https://blog.csdn.net/2401_87716819/article/details/145289350?spm=1001.2014.3001.5502
+
+005
+https://blog.csdn.net/2401_87716819/article/details/145324078?spm=1001.2014.3001.5502
+
+006
+https://blog.csdn.net/2401_87716819/article/details/145369504?spm=1001.2014.3001.5502
+
+第三周
+007
+https://blog.csdn.net/2401_87716819/article/details/145400942?spm=1001.2014.3001.5502
+
+008
+https://blog.csdn.net/2401_87716819/article/details/145420263?spm=1001.2014.3001.5502
+
+009
+https://blog.csdn.net/2401_87716819/article/details/145445824?spm=1001.2014.3001.5502
+
+第四周
+010
+https://blog.csdn.net/2401_87716819/article/details/145468387?spm=1001.2014.3001.5502
+
+011
+https://blog.csdn.net/2401_87716819/article/details/145545166?spm=1001.2014.3001.5502
+
+012
+https://blog.csdn.net/2401_87716819/article/details/145580086?spm=1001.2014.3001.5502
+
+第四周
+
+013
+https://blog.csdn.net/2401_87716819/article/details/145599558?spm=1001.2014.3001.5502
